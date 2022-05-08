@@ -1,0 +1,22 @@
+{
+  "name": "rickandmortygame",
+  "version": "1.0.0",
+  "description": "WebApp that interacts with Rick & Morty public API, it is intented for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpaul96/RickAndMortyGame.git"
+  },
+  "author": "Juan Pablo Linares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanpaul96/RickAndMortyGame/issues"
+  },
+  "homepage": "https://github.com/juanpaul96/RickAndMortyGame#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
